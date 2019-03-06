@@ -1,0 +1,13 @@
+  # Me
+  - me:
+      name: Ekrem CELIK
+      employed: yes
+      job: Senior IT System Engineer
+      age: 39
+      interests: |
+        Basketball
+        Aikido
+      friends:
+        - Kemal
+        - Ozge
+        - Can
